@@ -1,0 +1,25 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+header h1 {
+    font-size: 50px;
+}
+
+.ExcursionDownload {
+    color: aquamarine;
+}
+
+#Text_presentation h2{
+    font-weight: 300;
+    font-size: 42px;
+}
+
+#Copyright {
+    color: gray;
+    text-align: right;
+}
